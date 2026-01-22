@@ -1,0 +1,68 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    color: hotpink;
+    padding: 10px 0;
+}
+nav ul{
+        list-style-type: none;
+}
+nav ul li{
+         display: inline;
+         margin: 0 10px;
+}
+nav ul li a{
+           text-decoration: none;
+           color: rgb(253, 253, 253);
+           padding: 10px;
+}
+nav ul li a:hover{
+    background-color: springgreen;
+}
+main{
+    width: 80%;
+    margin: 10px auto;
+}
+section{
+    border:1px solid bisque;
+    padding:10px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px;
+}
+h2{
+    text-decoration: underline beige;
+}
+h3{
+    color: lightskyblue;
+}
+.proj{
+    background-color: peachpuff;
+    border: 1px solid floralwhite;
+    margin: 10px;
+}
+footer{
+    background-color: rgb(0, 37, 248);
+    text-align: center;
+    padding: 10px 0;
+    color: salmon;
+}
+label{
+      font-weight: bold;
+      display:block;
+      margin: 10px;
+      display: inline;
+         margin: 0 10px;
+}
+#myform{
+        border: 1px solid purple;
+        width: 300px;
+        margin:auto;
+        padding: 20px;
+        background-color: darkseagreen ;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        box-shadow: 2px 2px;
+}        
